@@ -4,5 +4,5 @@ Developed a clustering model to group restaurants based on their features such a
 
 ### Key Findings:
 
-Identifying the most popular topics among customers can help restaurants in designing their menus, improving services, and enhancing the overall customer experience.
-Clustering similar restaurants can help users in making informed decisions on where to dine based on their preferences and budget
+-Identifying the most popular topics among customers can help restaurants in designing their menus, improving services, and enhancing the overall customer experience.
+-Clustering similar restaurants can help users in making informed decisions on where to dine based on their preferences and budget
